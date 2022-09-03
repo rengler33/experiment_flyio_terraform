@@ -1,0 +1,10 @@
+version: "3.7"
+
+services:
+  terraform:
+    image: hashicorp/terraform:1.2.8
+    volumes:
+      - .:/infra
+    working_dir: /infra
+    environment:
+      - FLY_API_TOKEN=${FLY_API_TOKEN}

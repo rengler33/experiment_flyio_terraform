@@ -1,0 +1,25 @@
+# This file is maintained automatically by "terraform init".
+# Manual edits may be lost in future updates.
+
+provider "registry.terraform.io/fly-apps/fly" {
+  version     = "0.0.14"
+  constraints = "0.0.14"
+  hashes = [
+    "h1:nWZOAyjYlNHGIwMoDflAaCLMl5UrWxOf0octETXfyxg=",
+    "zh:238921b75df84590599b8725271fd461ba09bffd308f1f512b39446297c9dce2",
+    "zh:354c178701a2a2381d1da46e2e5770fb39e07965f5285e2cf9358bddbe310b8d",
+    "zh:3a7f08797e6d9f4339b9661d54ef5f0cbe79d5d081342238fd373d5f529a6b67",
+    "zh:628a62bd0e36ecb1b63c4507ca6b3a03e274d09cf77f1b36095e7eb848110252",
+    "zh:642164ddba9a924288ed87e1cd7c281a9d16f31183fdf925a4f699416709eb8b",
+    "zh:66bbc53f0aaff7d72b0b790abf213d0421cdaa9e156d004ad752cf2cc3021b42",
+    "zh:73b45785b850554c2d67032f4b9fbb9b82cef46240fa58f2092a28925823e23f",
+    "zh:8880d7c6280cfcfbcb4653d9c4dda15b9a6578057be2c0422f89279700a8f212",
+    "zh:890df766e9b839623b1f0437355032a3c006226a6c200cd911e15ee1a9014e9f",
+    "zh:bc4e1dbf72b49953a3e712b4014f80608808fd49994a9d48b1d877f787cf108d",
+    "zh:c7f194b00a4ffb3c94977b195ba25cecdbfeebed7224ed9157543d6415770cfb",
+    "zh:ca47b4b06af61770dd15c99783cb7410af6c2de371c583e652cdc67c12fb5209",
+    "zh:cfe540bc90576cec328647ded57404a20f950f9b162317212718143ba98a7ed9",
+    "zh:e761286060bf2e96813d7abf0f45cd4781a5515e2e6a0a6c421fb3c16ea914fe",
+    "zh:e9db20c4e554c712becf8dd967252fe168253f2b4d56b246ed9e18f5d5437298",
+  ]
+}
