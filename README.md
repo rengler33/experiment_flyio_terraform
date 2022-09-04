@@ -23,3 +23,6 @@ called the file `tf_wireguard.conf` at prompt
 `sudo cp tf_wireguard.conf /etc/wireguard`
 
 `wg-quick up tf_wireguard`
+
+Need to look closer at this guide, didn't see it before:
+https://fly.io/docs/app-guides/terraform-iac-getting-started/
